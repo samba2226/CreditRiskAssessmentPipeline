@@ -281,15 +281,21 @@ The Gold layer supports dashboards such as:
 * Loan amount trends
 * Default patterns
 
+![](https://github.com/samba2226/CreditRiskAssessmentPipeline/blob/main/dashboards/dashboard_images/Loan%20Performance%20Dashboard.png?raw=true)
 
 ### 📌 Credit Score Analysis
 
 * Credit score distribution
 * Risk correlation
 
+![](https://github.com/samba2226/CreditRiskAssessmentPipeline/blob/main/dashboards/dashboard_images/Credit%20Score%20Distribution.png?raw=true)
+
 ### 📌 Regional Risk Insights
 
 * Region-wise risk analysis
+
+![](https://github.com/samba2226/CreditRiskAssessmentPipeline/blob/main/dashboards/dashboard_images/Region-wise%20Risk%20Distribution.png?raw=true)
+
 
 ---
 
