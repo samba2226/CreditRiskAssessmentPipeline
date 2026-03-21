@@ -38,7 +38,7 @@ These datasets simulate a **real-world banking/credit risk system**.
 
 The pipeline integrates **Databricks + Delta Live Tables + AWS services**.
 
-[![
+![
 ](https://github.com/supriya-1109/Credit_Risk_Assessment_Pipeline/blob/main/assests/ARCHITECTURE_1773861870064.jpeg?raw=true)
 ### End-to-End Flow
 
@@ -153,7 +153,7 @@ fact_loan_application
 ### 📌 Final Analytics Table
 
 ```
-credit_catalog.analytics.risk_features
+credits_catalog.gold_credit_risk_schema.risk_features
 ```
 
 ## ⚙️ Orchestration (Databricks + Airflow)
@@ -210,6 +210,7 @@ Credit_Risk_Assessment_Pipeline
 │
 ├── dashboards
 │   └── dashboard_images
+│   └── dashboard_pdf
 │
 │── assets
 │
@@ -303,23 +304,23 @@ The Gold layer supports dashboards such as:
 
 ### 📊 Risk Analysis
 
-Identify high-risk borrowers likely to default
+Identified high-risk borrowers likely to default
 
 ### 💰 Loan Performance
 
-Analyze loan repayment trends
+Analyzed loan repayment trends
 
 ### 📉 Default Prediction
 
-Estimate probability of default
+Estimated probability of default
 
 ### 🌍 Regional Insights
 
-Identify high-risk regions
+Identified high-risk regions
 
 ### 🧾 Credit Behavior
 
-Understand borrower financial patterns
+Understood borrower financial patterns
 
 ---
 
