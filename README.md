@@ -214,7 +214,7 @@ Credit_Risk_Assessment_Pipeline
 │
 │── assets
 │
-│──Credit Risk Assessment Pipeline.ppt
+│──Credit Risk Assessment Pipeline PPT.ppt
 │
 └── README.md
 ```
@@ -242,7 +242,7 @@ Clone the repository:
 
 ```
 git clone https://github.com/samba2226/CreditRiskAssessmentPipeline.git
-cd Credit_Risk_Assessment_Pipeline
+cd CreditRiskAssessmentPipeline
 ```
 
 Install dependencies:
