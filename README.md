@@ -241,7 +241,7 @@ Credit_Risk_Assessment_Pipeline
 Clone the repository:
 
 ```
-git clone https://github.com/supriya-1109/Credit_Risk_Assessment_Pipeline.git
+git clone https://github.com/samba2226/CreditRiskAssessmentPipeline.git
 cd Credit_Risk_Assessment_Pipeline
 ```
 
